@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: MoviePi_CAX1RR
+grpc:
+  server:
+    port: 8000
